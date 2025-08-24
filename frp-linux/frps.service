@@ -1,6 +1,6 @@
 [Unit]
 Description=frp server service
-Documentation=https://github.com/fatedier/frp
+Documentation=https://gofrp.org
 After=network.target syslog.target
 Wants=network.target
 
